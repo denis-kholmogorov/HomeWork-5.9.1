@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f710b437-b693-44f7-a26a-616cd209129e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homeWork" />
+  </component>
+  <component name="ProjectId" id="1TCDLUEbOaLT8B8tW8lGWKSleo8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5.7.1 homework" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="5.9.1 homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f710b437-b693-44f7-a26a-616cd209129e" name="Default Changelist" comment="" />
+      <created>1572955127435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572955127435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="293" width="426" height="479" key="FileChooserDialogImpl" timestamp="1572956228697">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="713" y="293" width="426" height="479" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1572956228697" />
+    <state width="1096" height="243" key="GridCell.Tab.0.bottom" timestamp="1572957662695">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1096" height="243" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1572957662695" />
+    <state width="1096" height="243" key="GridCell.Tab.0.center" timestamp="1572957662695">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1096" height="243" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1572957662695" />
+    <state width="1096" height="243" key="GridCell.Tab.0.left" timestamp="1572957662694">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1096" height="243" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1572957662694" />
+    <state width="1096" height="243" key="GridCell.Tab.0.right" timestamp="1572957662695">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1096" height="243" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1572957662695" />
+  </component>
+</project>
